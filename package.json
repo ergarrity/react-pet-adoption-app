@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ergarrity/react-pet-adoption-app/issues"
   },
-  "homepage": "https://github.com/ergarrity/react-pet-adoption-app#readme"
+  "homepage": "https://github.com/ergarrity/react-pet-adoption-app#readme",
+  "devDependencies": {
+    "prettier": "^1.16.0"
+  }
 }
