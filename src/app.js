@@ -50,6 +50,7 @@ class App extends React.Component {
             }
             return (
               <Pet
+              key={pet.id}
               animal={pet.animal}
               name={pet.name}
               breed={breed}
